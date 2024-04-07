@@ -1,4 +1,4 @@
-# Nexis Bridge
+# SUBF Bridge
 
 ## Steps to run locally
 
